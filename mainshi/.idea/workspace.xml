@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b931f0-a2e3-4172-bdf4-7a8f4ccef78e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/1.png" afterPath="E:/Myproject/metal/backend/static/guide/img/1.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/2.png" afterPath="E:/Myproject/metal/backend/static/guide/img/2.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/3.png" afterPath="E:/Myproject/metal/backend/static/guide/img/3.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/4.png" afterPath="E:/Myproject/metal/backend/static/guide/img/4.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/5.png" afterPath="E:/Myproject/metal/backend/static/guide/img/5.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/6.png" afterPath="E:/Myproject/metal/backend/static/guide/img/6.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/7.png" afterPath="E:/Myproject/metal/backend/static/guide/img/7.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/8.png" afterPath="E:/Myproject/metal/backend/static/guide/img/8.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/Attribute_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/Attribute_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/Attribute_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/Attribute_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/Attribute_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/Attribute_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/Attribute_04.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/Attribute_04.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/Attribute_05.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/Attribute_05.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_04.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_04.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_05.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_05.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_06.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_06.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_07.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_07.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_08.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_08.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/active_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/active_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/alignment_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/alignment_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/alignment_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/alignment_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/alignment_button_3.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/alignment_button_3.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/attribute_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/attribute_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/attribute_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/attribute_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/card_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/card_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/card_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/card_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/card_button_3.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/card_button_3.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_04.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_04.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_05.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_05.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_06.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_06.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_07.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_07.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_08.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_08.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_09.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_09.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_10.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_10.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_11.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_11.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_12.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_12.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/character_13.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/character_13.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/diban.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/diban.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_04.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_04.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_05.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_05.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/equip_button_3.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/equip_button_3.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/formation_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/formation_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/formation_01.png" afterPath="E:/Myproject/metal/backend/static/guide/img/formation_01.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/formation_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/formation_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/formation_02.png" afterPath="E:/Myproject/metal/backend/static/guide/img/formation_02.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/formation_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/formation_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_04.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_04.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_05.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_05.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_06.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_06.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_07.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_07.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_button_21.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_button_21.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/hero_button_3.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/hero_button_3.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/index_title.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/index_title.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_04.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_04.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_05.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_05.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_06.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_06.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_07.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_07.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_08.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_08.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_09.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_09.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/skill_button_3.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/skill_button_3.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/training_01.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/training_01.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/training_02.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/training_02.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/training_03.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/training_03.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/training_button_1.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/training_button_1.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/guide/img/training_button_2.jpg" afterPath="E:/Myproject/metal/backend/static/guide/img/training_button_2.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/1.png" afterPath="E:/Myproject/metal/backend/static/notice/img/1.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/2.png" afterPath="E:/Myproject/metal/backend/static/notice/img/2.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/3.png" afterPath="E:/Myproject/metal/backend/static/notice/img/3.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/Go.png" afterPath="E:/Myproject/metal/backend/static/notice/img/Go.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/aa.jpg" afterPath="E:/Myproject/metal/backend/static/notice/img/aa.jpg" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/banner.png" afterPath="E:/Myproject/metal/backend/static/notice/img/banner.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/bar.png" afterPath="E:/Myproject/metal/backend/static/notice/img/bar.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/bg.png" afterPath="E:/Myproject/metal/backend/static/notice/img/bg.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/btnDown.png" afterPath="E:/Myproject/metal/backend/static/notice/img/btnDown.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/btnNormal.png" afterPath="E:/Myproject/metal/backend/static/notice/img/btnNormal.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/btnNormal_old.png" afterPath="E:/Myproject/metal/backend/static/notice/img/btnNormal_old.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/closeDown.png" afterPath="E:/Myproject/metal/backend/static/notice/img/closeDown.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/closeNormal.png" afterPath="E:/Myproject/metal/backend/static/notice/img/closeNormal.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/npc.png" afterPath="E:/Myproject/metal/backend/static/notice/img/npc.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/scroll.png" afterPath="E:/Myproject/metal/backend/static/notice/img/scroll.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/scrollBg.png" afterPath="E:/Myproject/metal/backend/static/notice/img/scrollBg.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/sunwukong.png" afterPath="E:/Myproject/metal/backend/static/notice/img/sunwukong.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/suona.png" afterPath="E:/Myproject/metal/backend/static/notice/img/suona.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/txtBg.png" afterPath="E:/Myproject/metal/backend/static/notice/img/txtBg.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/txtBg_old.png" afterPath="E:/Myproject/metal/backend/static/notice/img/txtBg_old.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/txtTitle.png" afterPath="E:/Myproject/metal/backend/static/notice/img/txtTitle.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/static/notice/img/welcom.png" afterPath="E:/Myproject/metal/backend/static/notice/img/welcom.png" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/ctrlgame.sh" afterPath="E:/Myproject/metal/backend/ctrlgame.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/doc/server_update/deploy/check_cdn.sh" afterPath="E:/Myproject/metal/backend/doc/server_update/deploy/check_cdn.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/doc/server_update/deploy/deploy.sh" afterPath="E:/Myproject/metal/backend/doc/server_update/deploy/deploy.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/doc/server_update/deploy/restart_all.sh" afterPath="E:/Myproject/metal/backend/doc/server_update/deploy/restart_all.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/doc/server_update/deploy/update_client_resource.sh" afterPath="E:/Myproject/metal/backend/doc/server_update/deploy/update_client_resource.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/platform/aisi.py" afterPath="E:/Myproject/metal/backend/logics/platform/aisi.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/platform/haima.py" afterPath="E:/Myproject/metal/backend/logics/platform/haima.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/platform/kuaiyong.py" afterPath="E:/Myproject/metal/backend/logics/platform/kuaiyong.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/platform/wandoujia.py" afterPath="E:/Myproject/metal/backend/logics/platform/wandoujia.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_1006.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_1006.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_4014.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_4014.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_4024.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_4024.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_6002.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_6002.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600211.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600211.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600212.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600212.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600213.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600213.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600214.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600214.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600221.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600221.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600222.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600222.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600223.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600223.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600224.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600224.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600231.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600231.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600232.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600232.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600233.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600233.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_600234.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_600234.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700111.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700111.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700121.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700121.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700131.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700131.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700132.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700132.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700133.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700133.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700151.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700151.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_700851feiqi.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_700851feiqi.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701111.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701111.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701112.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701112.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701113.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701113.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701114.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701114.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701131.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701131.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701132.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701132.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701133.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701133.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701134.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701134.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701231.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701231.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701232.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701232.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701233.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701233.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701234.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701234.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_7014.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_7014.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701411.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701411.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701412.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701412.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701413.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701413.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701414.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701414.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701421.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701421.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701422.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701422.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701423.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701423.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701424.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701424.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701431.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701431.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701432.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701432.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701433.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701433.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_701434.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_701434.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logics/skill_script/skill_utils.py" afterPath="E:/Myproject/metal/backend/logics/skill_script/skill_utils.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/logs/client_versions/upres.sh" afterPath="E:/Myproject/metal/backend/logs/client_versions/upres.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/scrips/redis_move.py" afterPath="E:/Myproject/metal/backend/scrips/redis_move.py" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/scrips/statistics/bi_mysql.sh" afterPath="E:/Myproject/metal/backend/scrips/statistics/bi_mysql.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/scrips/statistics/python_log.sh" afterPath="E:/Myproject/metal/backend/scrips/statistics/python_log.sh" />
+      <change type="MODIFICATION" beforePath="E:/Myproject/metal/backend/scrips/user_month_card_fix.py" afterPath="E:/Myproject/metal/backend/scrips/user_month_card_fix.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mainshi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+        <entry file="file://F:/learn/conference-track-management-3/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-3/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="talk.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-2/talk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="talks.txt" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-2/talks.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-3/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-43">
+              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+              <folding>
+                <element signature="e#24#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="talk.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-3/talk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-913">
+              <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="track.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-3/track.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding>
+                <element signature="e#25#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-2/session.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="organizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-2/organizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="action.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/learn/conference-track-management-2/action.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="43" />
+              <folding>
+                <element signature="e#24#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CLIENT_TIMEOUT</find>
+      <find>request_handler</find>
+      <find>5_130</find>
+      <find>with</find>
+      <find>60</find>
+      <find>Session</find>
+      <find>Lunch</find>
+      <find>start_time</find>
+      <find>Rails for Python Developers</find>
+      <find>talks_res</find>
+      <find>get_minutes</find>
+      <find>SESSION_TYPE_MAPPING</find>
+      <find>START_TIME_MAPPING</find>
+      <find>SESSION_TYPE_START_MAPPING</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/Myproject/metal/backend" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test25.py" />
+        <option value="$PROJECT_DIR$/test_file" />
+        <option value="$PROJECT_DIR$/test26.py" />
+        <option value="F:/learn/conference-track-management/test.py" />
+        <option value="F:/learn/conference-track-management/track3.py" />
+        <option value="F:/learn/conference-track-management/track4.py" />
+        <option value="F:/learn/conference-track-management/track.py" />
+        <option value="F:/learn/conference-track-management/track5.py" />
+        <option value="F:/learn/conference-track-management/timing.py" />
+        <option value="F:/learn/conference-track-management/run.py" />
+        <option value="F:/learn/conference-track-management/utils.py" />
+        <option value="F:/learn/conference-track-management/talk.py" />
+        <option value="F:/learn/conference-track-management-3/utils.py" />
+        <option value="F:/learn/conference-track-management-3/run.py" />
+        <option value="F:/learn/conference-track-management-3/talk.py" />
+        <option value="F:/learn/conference-track-management-3/test.txt" />
+        <option value="F:/learn/conference-track-management-3/track.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="80" />
+    <option name="y" value="7" />
+    <option name="width" value="1175" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mainshi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conference-track-management-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="F:/learn/李杰_python开发_conference-track-management/conference-track-management" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn\conference-track-management-3" />
+      <recent name="F:\learn\conference-track-management" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration default="false" name="action" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/learn/conference-track-management-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="conference-track-management-2" />
+      <option name="SCRIPT_NAME" value="F:/learn/conference-track-management-2/action.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/learn/conference-track-management-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="conference-track-management" />
+      <option name="SCRIPT_NAME" value="F:/learn/conference-track-management-3/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="talk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/learn/conference-track-management-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="conference-track-management" />
+      <option name="SCRIPT_NAME" value="F:/learn/conference-track-management-3/talk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/learn/conference-track-management-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="conference-track-management" />
+      <option name="SCRIPT_NAME" value="F:/learn/conference-track-management-3/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mainshi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mainshi" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mainshi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mainshi" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.action" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run" />
+      <item index="2" class="java.lang.String" itemvalue="Python.talk" />
+      <item index="3" class="java.lang.String" itemvalue="Python.utils" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.run" />
+        <item index="1" class="java.lang.String" itemvalue="Python.utils" />
+        <item index="2" class="java.lang.String" itemvalue="Python.talk" />
+        <item index="3" class="java.lang.String" itemvalue="Python.action" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b931f0-a2e3-4172-bdf4-7a8f4ccef78e" name="Default" comment="" />
+      <created>1488868466901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488868466901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="80" y="7" width="1175" height="738" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28430495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78642386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.397351" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/run_chat_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="88" column="26" lean-forward="false" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/chat/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5380">
+          <caret line="274" column="37" lean-forward="false" selection-start-line="274" selection-start-column="37" selection-end-line="274" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/run_chat_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="88" column="26" lean-forward="false" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/chat/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5380">
+          <caret line="274" column="37" lean-forward="true" selection-start-line="274" selection-start-column="37" selection-end-line="274" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/chat/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5380">
+          <caret line="274" column="37" lean-forward="false" selection-start-line="274" selection-start-column="37" selection-end-line="274" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/run_chat_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="88" column="26" lean-forward="false" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/lib/statistics/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="519" column="8" lean-forward="false" selection-start-line="519" selection-start-column="4" selection-end-line="519" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/scrips/bi_script/bi_redis_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4762">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/lib/statistics/data_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/track5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/track4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/track3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="86" column="4" lean-forward="false" selection-start-line="86" selection-start-column="4" selection-end-line="95" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/lib/utils/time_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-760">
+          <caret line="70" column="33" lean-forward="true" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-762174762/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="492" column="8" lean-forward="false" selection-start-line="492" selection-start-column="8" selection-end-line="492" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/track2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/track.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+          <folding>
+            <element signature="e#25#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/conference-track-management-3/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management/talk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-2/talks.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-2/organizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-2/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-2/talk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-2/action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="e#24#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Myproject/metal/backend/logics/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="107" column="22" lean-forward="true" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/talk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-913">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/track.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <element signature="e#25#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/learn/conference-track-management-3/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
