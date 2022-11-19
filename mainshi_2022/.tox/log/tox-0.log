@@ -1,0 +1,39 @@
+actionid: tox
+msg: packaging
+cmdargs: ['c:\\python27\\python.exe', local('E:\\learn\\mainshi\\setup.py'), 'sdist', '--formats=zip', '--dist-dir', local('E:\\learn\\mainshi\\.tox\\dist')]
+
+running sdist
+running egg_info
+writing requirements to tox.egg-info\requires.txt
+writing tox.egg-info\PKG-INFO
+writing top-level names to tox.egg-info\top_level.txt
+writing dependency_links to tox.egg-info\dependency_links.txt
+reading manifest file 'tox.egg-info\SOURCES.txt'
+writing manifest file 'tox.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating tox-0.0.0
+creating tox-0.0.0\tox.egg-info
+copying files to tox-0.0.0...
+copying setup.py -> tox-0.0.0
+copying tox.egg-info\PKG-INFO -> tox-0.0.0\tox.egg-info
+copying tox.egg-info\SOURCES.txt -> tox-0.0.0\tox.egg-info
+copying tox.egg-info\dependency_links.txt -> tox-0.0.0\tox.egg-info
+copying tox.egg-info\requires.txt -> tox-0.0.0\tox.egg-info
+copying tox.egg-info\top_level.txt -> tox-0.0.0\tox.egg-info
+Writing tox-0.0.0\setup.cfg
+creating 'E:\learn\mainshi\.tox\dist\tox-0.0.0.zip' and adding 'tox-0.0.0' to it
+adding 'tox-0.0.0\PKG-INFO'
+adding 'tox-0.0.0\setup.cfg'
+adding 'tox-0.0.0\setup.py'
+adding 'tox-0.0.0\tox.egg-info\dependency_links.txt'
+adding 'tox-0.0.0\tox.egg-info\PKG-INFO'
+adding 'tox-0.0.0\tox.egg-info\requires.txt'
+adding 'tox-0.0.0\tox.egg-info\SOURCES.txt'
+adding 'tox-0.0.0\tox.egg-info\top_level.txt'
+removing 'tox-0.0.0' (and everything under it)

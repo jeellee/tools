@@ -1,0 +1,7 @@
+actionid: pep8
+msg: getenv
+cmdargs: ['c:\\python27\\python.exe', '-m', 'virtualenv', '--python', 'c:\\python27\\python.exe', 'pep8']
+
+Already using interpreter c:\python27\python.exe
+New python executable in E:\learn\mainshi\.tox\pep8\Scripts\python.exe
+Installing setuptools, pip, wheel...done.

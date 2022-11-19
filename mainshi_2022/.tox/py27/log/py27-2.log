@@ -1,0 +1,17 @@
+actionid: py27
+msg: installpkg
+cmdargs: ['E:\\learn\\mainshi\\.tox\\py27\\Scripts\\pip.EXE', 'install', 'E:\\learn\\mainshi\\.tox\\dist\\tox-0.0.0.zip']
+
+Processing e:\learn\mainshi\.tox\dist\tox-0.0.0.zip
+Requirement already satisfied: py>=1.4.17 in e:\learn\mainshi\.tox\py27\lib\site-packages (from tox==0.0.0)
+Requirement already satisfied: pluggy<1.0,>=0.3.0 in e:\learn\mainshi\.tox\py27\lib\site-packages (from tox==0.0.0)
+Requirement already satisfied: six in e:\learn\mainshi\.tox\py27\lib\site-packages (from tox==0.0.0)
+Collecting virtualenv>=1.11.2 (from tox==0.0.0)
+  Using cached virtualenv-15.1.0-py2.py3-none-any.whl
+Building wheels for collected packages: tox
+  Running setup.py bdist_wheel for tox: started
+  Running setup.py bdist_wheel for tox: finished with status 'done'
+  Stored in directory: C:\Users\Administrator\AppData\Local\pip\Cache\wheels\f0\cf\75\95f24e1b3719d4184e879f97f9a37fda3ce118027c5240cf8f
+Successfully built tox
+Installing collected packages: virtualenv, tox
+Successfully installed tox-0.0.0 virtualenv-15.1.0

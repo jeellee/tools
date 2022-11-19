@@ -1,1 +1,3 @@
-mainshi/.idea/*
+mainshi/.idea
+mainshi_2022/.idea
+*.pyc

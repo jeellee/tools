@@ -1,0 +1,5 @@
+Wed, 12 Jul 2017 22:17:01 test.py[line:12] DEBUG This is debug message
+Wed, 12 Jul 2017 22:17:01 test.py[line:13] INFO This is info message
+Wed, 12 Jul 2017 22:17:01 test.py[line:14] WARNING This is warning message
+Wed, 12 Jul 2017 22:17:01 test1.py[line:5] INFO 111111111111
+Wed, 12 Jul 2017 22:17:01 test1.py[line:6] WARNING 22222222222222
