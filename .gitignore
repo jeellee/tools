@@ -1,4 +1,9 @@
 mainshi/.idea
 mainshi_2022/.idea
 *.pyc
-/.tox/
+*/.tox/*
+.cache
+.DS_Store
+.eggs 
+.idea
+.tox
