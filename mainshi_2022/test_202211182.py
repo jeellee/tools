@@ -81,3 +81,106 @@ def my_decorator2(func):
 
 # 禁止在代码中 包含公网地址 ip等
 
+
+"""
+In [19]: 4>False
+Out[19]: True
+
+In [20]: 4>True
+Out[20]: True
+
+In [21]: 4>3==2
+Out[21]: False
+
+In [22]: 4>3==2
+Out[22]: False
+
+In [23]: 4>3==3
+Out[23]: True
+
+In [24]: 3==2
+Out[24]: False
+
+In [25]: 4>3 and 3==2   # 4>3==2这个写法 相当于 4>3 and 3==2  （类似  b < a < c 即 b < a and a < c）
+Out[25]: False
+
+In [26]: 4>3 and 3==3
+Out[26]: True
+
+# 虚数不支持
+In [27]: 5+4j > 2-3j
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-27-c20bc1df3d84> in <module>
+----> 1 5+4j > 2-3j
+
+TypeError: '>' not supported between instances of 'complex' and 'complex'
+
+In [28]: (5+4j) > (2-3j)
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-28-e6adf29dab3e> in <module>
+----> 1 (5+4j) > (2-3j)
+
+TypeError: '>' not supported between instances of 'complex' and 'complex'
+
+# 元组 也不支持比较啊？？？
+In [30]: (3,2) < ('a','b')
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-30-6ebae767d474> in <module>
+----> 1 (3,2) < ('a','b')
+
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+In [31]: (3,2)<('a','b')
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-31-413b366b1901> in <module>
+----> 1 (3,2)<('a','b')
+
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+# 挨个比较 ascii值
+In [32]: 'abc'>'xyz'
+Out[32]: False
+
+In [33]: 3>2>2
+Out[33]: False
+
+In [34]: ord('a')
+Out[34]: 97
+
+In [35]: ord('x')
+Out[35]: 120
+
+In [36]: 'abc'<'xyz'
+Out[36]: True
+
+# 挨个比较 数字
+In [37]: (3,2)<(3,1)
+Out[37]: False
+
+In [38]: (3,2)>(3,1)
+Out[38]: True
+
+In [39]: (3,2)>(3,3)
+Out[39]: False
+
+In [40]: (3,2)>(2,3)
+Out[40]: True
+
+# 对对象中每个值乘
+In [41]: ('hi')*4   # ('hi')没加逗号 相当于一个单字符窜
+Out[41]: 'hihihihi'
+
+In [42]: ('hi',)*4
+Out[42]: ('hi', 'hi', 'hi', 'hi')
+
+In [43]: ['hi']*4
+Out[43]: ['hi', 'hi', 'hi', 'hi']
+
+In [44]: [['hi']]*4
+Out[44]: [['hi'], ['hi'], ['hi'], ['hi']]
+
+"""
