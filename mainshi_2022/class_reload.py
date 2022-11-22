@@ -18,22 +18,22 @@ a = [1, 2, 3, 4]
     def extend(self, iterable): # real signature unknown; restored from __doc__
 """
 a.extend({7: 10, 8: 10, 9: 10})    # # [1, 2, 3, 4, 8, 9, 7]
-print a
+print(a)
 
 
 class Duck:
     def quack(self):
-        print "Quaaaaaack!"
+        print("Quaaaaaack!")
 
 
 class Bird:
     def quack(self):
-        print "bird imitate duck."
+        print("bird imitate duck.")
 
 
 class Doge:
     def quack(self):
-        print "doge imitate duck."
+        print("doge imitate duck.")
 
 
 def in_the_forest(duck):

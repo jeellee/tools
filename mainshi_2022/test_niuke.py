@@ -115,16 +115,16 @@ def fun(input_str):
                     temp += v
 
         find_list.append(int(temp))
-    print find_list
+    print(find_list)
     return max(find_list)
 
 
 while True:
     try:
-        a = raw_input()
+        a = input()
         if not a.isdigit():
             break
-        print fun(a)
+        print(fun(a))
     except:
         break
 

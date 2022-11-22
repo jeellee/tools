@@ -47,9 +47,9 @@ class Singleton(object):
         return cls._singlettons[cls]
 
 s1 = Singleton()
-print id(s1)
+print(id(s1))
 s2 = Singleton()
-print id(s2)
+print(id(s2))
 """
 另一种单例的实现
 class Singleton(object):
@@ -117,9 +117,9 @@ class MyClass2(Singleton):
     a = 1
 
 mm3 = MyClass()
-print id(mm3)
+print(id(mm3))
 mm4 = MyClass()
-print id(mm4)
+print(id(mm4))
 
 
 # 用__new__来实现共享属性
@@ -134,7 +134,7 @@ class MyClass(Borg):
     a = 1
 
 mc = MyClass()
-print 'mc.__dict__', mc.__dict__
+print('mc.__dict__', mc.__dict__)
 
 
 # __getattribute__  对新式类的实例来说，所有属性和方法的访问操作都是通过__getattribute__完成，
@@ -142,7 +142,7 @@ print 'mc.__dict__', mc.__dict__
 class listNoAppend(list):
     def __getattribute__(self, item):
         if item == 'append':
-            raise AttributeError, item
+            raise AttributeError(item)
         return list.__getattribute__(self, item)
 
 a = listNoAppend()
@@ -242,24 +242,24 @@ d.go()
 # 使用super
 class A(object):
     def go(self):              # 6
-        print "go A go!"
+        print("go A go!")
 
 class B(A):
     def go(self):               # 2
         super(B, self).go()     # 3
-        print "go B go!"        # 7
+        print("go B go!")        # 7
 
 
 class C(A):
     def go(self):               # 4
         super(C, self).go()     # 5
-        print "go C go!"        # 6
+        print("go C go!")        # 6
 
 
 class D(B, C):
     def go(self):
         super(D, self).go()  # 1
-        print "go D go!"     # 8
+        print("go D go!")     # 8
 
 d = D()
 d.go()

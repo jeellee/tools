@@ -54,9 +54,9 @@ src = "security/afafsff/?ip=123.4.56.78&id=45"
 # 比如要匹配 ‘ I have a dog’ 或 ’I have a cat’ ，需要写成 r’I have a (?:dog|cat)’ ，而不能写成 r’I have a dog|cat’
 
 
-print re.findall(r'(\d{1,3}\.){3}\d{1,3}', "security123.4.56.78")
+print(re.findall(r'(\d{1,3}\.){3}\d{1,3}', "security123.4.56.78"))
 # ['56.']  将()当成了一个组, 匹配不正确
-print re.findall(r'(?:\d{1,3}\.){3}\d{1,3}', "security123.4.56.78")
+print(re.findall(r'(?:\d{1,3}\.){3}\d{1,3}', "security123.4.56.78"))
 # ['123.4.56.78']
 
 
@@ -67,11 +67,21 @@ print re.findall(r'(?:\d{1,3}\.){3}\d{1,3}', "security123.4.56.78")
 
 # 5. ?<![\.\d])之前的字符不是.或数字 才匹配
 #    (?![\.\d])之后的字符不是.或数字 才匹配
-print re.findall(r'(?:\d{1,3}\.){3}\d{1,3}', "security23.123.4.56.78")
+print(re.findall(r'(?:\d{1,3}\.){3}\d{1,3}', "security23.123.4.56.78"))
 # ['23.123.4.56']   没有限定, 能匹配出结果
 
-print re.findall(r'(?:\d{1,3}\.){3}\d{1,3}(?![\.\d])', "security23.123.4.56.78")
+print(re.findall(r'(?:\d{1,3}\.){3}\d{1,3}(?![\.\d])', "security23.123.4.56.78"))
 # ['123.4.56.78']  限定后面的字符不是.或数字 才匹配, 所以从123.开始匹配
 
 re.findall(r'(?<![\.\d])(?:\d{1,3}\.){3}\d{1,3}(?![\.\d])', "security23.123.4.56.78")
 # 前后都限定, 匹配不到了
+
+
+s = "we are humans"
+m = re.match(r'(.*)(.*)(.*)', s)
+print(m.group())
+print(m.groups())
+print(m.group(1))
+
+n = re.match(r'(.*) (.*) (.*)', s)
+print(n.groups())

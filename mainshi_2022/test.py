@@ -57,9 +57,9 @@ def func():
             else:
                 data_dict[row_sum] += 1
 
-    print data_dict
-    ret = sorted(data_dict.items(), key=lambda x: x[1], reverse=True)[0][0]
-    print ret
+    print(data_dict)
+    ret = sorted(list(data_dict.items()), key=lambda x: x[1], reverse=True)[0][0]
+    print(ret)
     return ret
 
 

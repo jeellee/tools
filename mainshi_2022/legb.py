@@ -35,18 +35,18 @@ print(hehe)
 x = 10
 def print_x(x):
     x += 1
-    print x
+    print(x)
 
 print_x(x)   # 全局变量进入到函数(如果不用global修饰), 就变成函数内部的局部变量
-print x
+print(x)
 # 11
 # 10
-print vars()
+print(vars())
 
 # 格式化打印dict
 import json
 aaa = {'name': 1212, 'age': 999, 'kids': {'name': 1111, 'age': 11}}
-print json.dumps(aaa, encoding='utf-8', ensure_ascii=False, indent=4)
+print(json.dumps(aaa, encoding='utf-8', ensure_ascii=False, indent=4))
 
 # 1. 当你在局部变量中命名跟全局变量有重名的时候，就不会使用全局变量
 # 2. 函数中可以使用全局变量，但是不能改变，如果想要在函数中改变x的值，你需要在函数中，使用global(全局)来定义这个变量，让其变为全局的。

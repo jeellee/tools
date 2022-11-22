@@ -5,16 +5,17 @@ lambda只是一个表达式，函数体比def简单很多，很多时候定义de
 
 lambda的主体是一个表达式，而不是一个代码块。仅仅能在lambda表达式中封装有限的逻辑进去。
 """
-a = map(lambda x: x*x, [y for y in range(10)])
-print a
+from functools import reduce
+a = [x*x for x in [y for y in range(10)]]
+print(a)
 """
 map()：映射，用法和filter()类似，也是将序列放入函数进行运算，但是，不论运算结果为什么，map()都将忠实反馈，这是map()和filter()的主要区别。
 请注意，filter()和map()中的function都必要有一个返回值。
 """
 
 
-b = list(filter(lambda x:True if x % 3 == 0 else False, range(100)))
-print b
+b = list([x for x in range(100) if (True if x % 3 == 0 else False)])
+print(b)
 """
 filter()：简单的理解为过滤器，需要两个参数，function，和一个序列（字符串、列表、元组都是序列），过滤器会依次将序列的值传入function中，
 如果返回True的话，将其重新生成一个列表返回。
@@ -39,9 +40,9 @@ def add(x, y):
     return x+y
 
 sum = reduce(add, [1, 2, 3, 4, 5])
-print sum
+print(sum)
 
 
-print reduce(lambda x,y: x+y, map(lambda x: x*x, [1, 2, 3, 4, 5]))
+print(reduce(lambda x,y: x+y, [x*x for x in [1, 2, 3, 4, 5]]))
 
 

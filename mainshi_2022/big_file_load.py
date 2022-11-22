@@ -1,5 +1,5 @@
 # coding: utf-8
-import BaseHTTPServer
+import http.server
 
 
 def read_file(filename, buf_size=8192):
@@ -26,4 +26,4 @@ def test():
 if __name__ == "__main__":
     ret = test()
     for i in ret:
-        print i
+        print(i)

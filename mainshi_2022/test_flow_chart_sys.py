@@ -49,7 +49,7 @@ class FlowChartSys:
             return False
         import copy
         new_conns = copy.deepcopy(self.conns)
-        for conn_id, conn_val in self.conns.items():
+        for conn_id, conn_val in list(self.conns.items()):
             if node_id not in conn_val:
                 continue
             new_conns.pop(conn_id)
@@ -59,7 +59,7 @@ class FlowChartSys:
 
     @staticmethod
     def query_one(conns, is_queryed_conns, node_id):
-        for conn_id, conn_val in conns.items():
+        for conn_id, conn_val in list(conns.items()):
             if conn_id in is_queryed_conns:
                 continue
             is_queryed_conns.append(conn_id)
@@ -74,13 +74,13 @@ class FlowChartSys:
         if node_id not in self.nodes:
             return []
         # 手工创建的连接
-        conns = [i for i in self.conns.values()]
+        conns = [i for i in list(self.conns.values())]
         end_node_list = []
         for node_start, node_end in conns:
             if node_start != node_id:
                 continue
             end_node_list.append(node_end)
-        end_node_list.extend([i for i, j in self.nodes.items() if j == 1])
+        end_node_list.extend([i for i, j in list(self.nodes.items()) if j == 1])
         return list(set(end_node_list))
 
 
@@ -96,11 +96,11 @@ if __name__ == '__main__':
     f.add_node([102, 1])
     f.add_conn([20, 100, 101])
     f.add_node([105, 1])
-    print(f.query(100))
+    print((f.query(100)))
     f.rm_node(101)
     f.rm_conn(20)
-    print(f.nodes)
-    print(f.conns)
+    print((f.nodes))
+    print((f.conns))
 
 
 

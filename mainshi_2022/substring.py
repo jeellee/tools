@@ -34,7 +34,7 @@ class Solution(object):
             if max_len < v_len:
                 max_len = v_len
                 max_str = ''.join(v)
-        print max_len, max_str
+        print(max_len, max_str)
 
 
 # s = Solution()
@@ -103,7 +103,7 @@ class Solution5:
         return max_len
 
 s = Solution5()
-print s.lengthOfLongestSubstring('dvdfd')
+print(s.lengthOfLongestSubstring('dvdfd'))
 
 """
 """
@@ -202,7 +202,7 @@ class Solution7(object):
                 nums[k] = nums[i]
                 k += 1
 
-        print nums
+        print(nums)
         for i in range(k, len(nums)):
             nums[i] = 0
 
@@ -274,7 +274,7 @@ class Solution9(object):
 nums = [1, 2, 1, 0, 2, 2]
 s = Solution9()
 s.sortColors(nums)
-print nums
+print(nums)
 
 
 """
@@ -299,7 +299,7 @@ class Solution10(object):
         r = len(nums)-1
         mid = nums[l]
 
-        for i in xrange(len(nums)):
+        for i in range(len(nums)):
             if l > r:
                 return
             if nums[i] < mid:
@@ -413,7 +413,7 @@ class Solution(object):
         pre = None
         cur = head
         while cur:
-            next = cur.next
+            next = cur.__next__
             cur.next = pre
 
             pre = cur

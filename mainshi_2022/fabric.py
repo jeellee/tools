@@ -28,7 +28,7 @@ def check_unicode(data):
     :return:
     """
     if isinstance(data, dict):
-        for k, v in data.iteritems():
+        for k, v in data.items():
             if isinstance(v, dict):
                 if check_unicode(v):
                     return True
@@ -36,7 +36,7 @@ def check_unicode(data):
                 if check_unicode(v):
                     return True
             else:
-                if v and isinstance(v, unicode):
+                if v and isinstance(v, str):
                     return True
     elif isinstance(data, list):
         for v in data:
@@ -47,10 +47,10 @@ def check_unicode(data):
                 if check_unicode(v):
                     return True
             else:
-                if v and isinstance(v, unicode):
+                if v and isinstance(v, str):
                     return True
     else:
-        if data and isinstance(data, unicode):
+        if data and isinstance(data, str):
             return True
     return False
 
@@ -84,9 +84,9 @@ data = {
     "like_times": 0,
     "max_like_times": 10,
     "self_rank": 0,
-    "self_score": u'打',
+    "self_score": '打',
   }
 
 
-print check_unicode(data)
+print(check_unicode(data))
 

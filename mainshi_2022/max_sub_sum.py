@@ -34,7 +34,7 @@ def max_sub_sum(arr):
         i += 1
     return max_sum
 
-print max_sub_sum([1, 2, -3, -1, 1])
+print(max_sub_sum([1, 2, -3, -1, 1]))
 
 
 
@@ -43,6 +43,6 @@ def reverse(x):
         res = int(str(x)[::-1])
     else:
         res = int('-' + str(x)[:0:-1])
-    print res
+    print(res)
 
 reverse(-1230)

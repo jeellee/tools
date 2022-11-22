@@ -103,7 +103,7 @@ def bubble_sort(lists):
         for j in range(i + 1, count):
             if lists[i] > lists[j]:
                 lists[i], lists[j] = lists[j], lists[i]
-            print lists
+            print(lists)
     return lists
 
 # bubble_sort(a)
@@ -173,7 +173,7 @@ def nlogn_sort(n):
     while sz < n:
         sz *= 2
         for i in range(n):
-            print 'nlogn_sort, ', count
+            print('nlogn_sort, ', count)
             count += 1
 
 # nlogn_sort(100)
@@ -216,7 +216,7 @@ def pow(x, n):
     if n%2 != 0:
         return x*t*t
     return t*t
-print pow(2, 5)
+print(pow(2, 5))
 
 
 if __name__ == '__main__':
@@ -228,4 +228,4 @@ if __name__ == '__main__':
         # quick_sort_2(arry)
         # quick_sort_1(arry)
         # select_sort(arry)
-        print '2^%s: %s spend time: %s' % (i, arry_len, time.time()-start)
+        print('2^%s: %s spend time: %s' % (i, arry_len, time.time()-start))

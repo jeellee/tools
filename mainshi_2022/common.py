@@ -20,7 +20,7 @@ def max_common(a, b):
         a, b = b, a % b
     return a
 
-print max_common(a, b)
+print(max_common(a, b))
 
 
 def min_Common(a, b):
@@ -30,7 +30,7 @@ def min_Common(a, b):
     return c//a
 
 
-print min_Common(a, b)
+print(min_Common(a, b))
 
 
 """
@@ -65,7 +65,7 @@ list2 = extend_list(123, [])
 print(list2)     # [123]
 list3 = extend_list('a')
 print(list3)     # [10, 'a']
-print "--------------"
+print("--------------")
 print(list1)    # list1 = [10, 'a']
 print(list2)    # list2 = [123]
 print(list3)    # list3 = [10, 'a']
@@ -83,9 +83,9 @@ class Child2(Parent):
     pass
 
 
-print(Parent.x, Child1.x, Child2.x)  # [1,1,1]
+print((Parent.x, Child1.x, Child2.x))  # [1,1,1]
 Child1.x = 2
-print(Parent.x, Child1.x, Child2.x)  # [1,2,1]
+print((Parent.x, Child1.x, Child2.x))  # [1,2,1]
 Parent.x = 3
-print(Parent.x, Child1.x, Child2.x)  # [3,2,3]
+print((Parent.x, Child1.x, Child2.x))  # [3,2,3]
 

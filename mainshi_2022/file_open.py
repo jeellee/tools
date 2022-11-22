@@ -88,7 +88,7 @@ file_object.close()
 
 with open('test_file', 'a') as f:
     for line in f:
-        print line.strip()
+        print(line.strip())
 
 
 with open('test_file', 'a') as f:
@@ -97,4 +97,4 @@ with open('test_file', 'a') as f:
 
 with open('test_file', 'a') as f:
     for line in f.readlines():     # 配置文件 这样读比较方便
-        print line.strip()
+        print(line.strip())

@@ -17,11 +17,11 @@ def fabric(num):
     :return:
     """
     a, b = 1, 0
-    print b,
+    print(b, end=' ')
     while num:
         a, b = a+b, a
         num -= 1
-        print a,
+        print(a, end=' ')
 
 
 # fabric(100)
@@ -150,7 +150,7 @@ n个格子  f(n) = f(n-4) + f(n-2)
 
 def stage_n2(n):
     if n % 2:
-        print "input error"
+        print("input error")
         return
     if n == 2:
         return 1
@@ -158,6 +158,6 @@ def stage_n2(n):
         return 2
     return stage_n2(n-2)+stage_n2(n-4)
 
-print stage_n2(10)
+print(stage_n2(10))
 
 

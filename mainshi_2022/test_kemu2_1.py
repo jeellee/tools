@@ -3,8 +3,13 @@
 # 简单字符串使用+号即可
 # 复杂使用format和f,尽量避免使用%
 print(f"{1}")
-print("hello {}".format("world"))
-print("hello {name}".format(name="aaa"))
+print(("hello {}".format("world")))
+print(("hello {name}".format(name="aaa")))
+
+# 根据需求选取：
+# 追求时间：使用list.append 或者 ''.join()
+# 追求内存少：使用+ 或+=
+
 
 # 合理使用字符串引号
 # 同一文件使用一种 单引号或双引号， 尽量不使用转义
@@ -54,17 +59,9 @@ except KeyError:
 # 使用defaultdict
 from collections import defaultdict
 data = defaultdict(str)
-print(data["key"])  # 有默认值 不会报错
+print((data["key"]))  # 有默认值 不会报错
 
 # 代码层面上 key一定存在时 可以使用[]
-
-# 使用isinstance判断类型，不使用type
-# 优先使用内置类型判断
-
-callable(object)
-from collections.abc import Container
-isinstance(object, Container)
-
 
 
 # 不使用 == 判断对象是否相等
@@ -143,9 +140,9 @@ class EntityA(Entity):
         return self.__age   # 父类私有变量，不能被继承
 
 obj_a = EntityA(1, "lijie", 13)
-print(obj_a.get_name())
+print((obj_a.get_name()))
 
-print(obj_a._name)  # 保护的变量，不建议直接使用
+print((obj_a._name))  # 保护的变量，不建议直接使用
 
 
 # try except

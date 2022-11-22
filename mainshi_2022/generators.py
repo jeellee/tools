@@ -25,14 +25,14 @@ mylist = [x*x for x in range(3)]
 def createGenerator():
     for i in range(3):
         yield i*i
-        print "...", i
+        print("...", i)
 
 mygenerator = createGenerator()
 
 # print mygenerator    # <generator object createGenerator at 0x10b7e9e10>
 
-print mygenerator.next()
-print mygenerator.next()
+print(next(mygenerator))
+print(next(mygenerator))
 # print mygenerator.next()
 # print mygenerator.next()
 """

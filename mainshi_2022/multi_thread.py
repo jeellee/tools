@@ -60,24 +60,24 @@ Bottleneck  瓶颈
 启动一个线程实际上就是把一个函数传入, 并创建Thread实例, 然后调用start开始执行
 """
 import time
-import thread        # 低级模块
+import _thread        # 低级模块
 import threading     # 高级模块, 对thread的封装, 大多数情况使用threading即可
 
 
 def loop():
-    print 'thread %s is running...' % threading.current_thread().name
+    print('thread %s is running...' % threading.current_thread().name)
     n = 0
     while n < 5:
-        print 'thread %s >>> %s...' % (threading.current_thread().name, n)
+        print('thread %s >>> %s...' % (threading.current_thread().name, n))
         n += 1
         time.sleep(1)
-    print 'thread %s is ended...' % threading.current_thread().name
+    print('thread %s is ended...' % threading.current_thread().name)
 
-print 'thread %s is running...' % threading.current_thread().name
+print('thread %s is running...' % threading.current_thread().name)
 th = threading.Thread(target=loop, name='LoopThread')
 th.start()
 th.join()
-print 'thread %s is ended...' % threading.current_thread().name
+print('thread %s is ended...' % threading.current_thread().name)
 
 
 
@@ -91,25 +91,25 @@ def produce(l):
     while 1:
         if i < 5:
             l.append(i)
-            print 'produce: 111', l
+            print('produce: 111', l)
             yield i
             i = i + 1
             time.sleep(1)
-            print 'produce: 222'
+            print('produce: 222')
         else:
             return
 
 
 # 消费者
 def consume(l):
-    print 'consume: start'
+    print('consume: start')
     p = produce(l)    # 并不立即执行, 暂停在yield处
     while 1:
         try:
-            p.next()        # next取出一个后, produce继续执行yield后面的
-            print 'consume: 222', l
+            next(p)        # next取出一个后, produce继续执行yield后面的
+            print('consume: 222', l)
             while len(l) > 0:
-                print l.pop()
+                print(l.pop())
         except StopIteration:
             sys.exit(0)
 

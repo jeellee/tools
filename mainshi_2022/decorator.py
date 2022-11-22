@@ -10,7 +10,7 @@ def decorator(func):
         try:
             return func(arg)
         except:
-            print 'error'
+            print('error')
     return warp
 
 @decorator
@@ -103,7 +103,7 @@ class Lucy(object):
 
     @make_young
     def say_age(self, name):
-        print "I am {name}, my age is {age}".format(name=name, age=self.age)
+        print("I am {name}, my age is {age}".format(name=name, age=self.age))
 
 
 # l = Lucy()
@@ -113,20 +113,20 @@ class Lucy(object):
 # 5. functools.wraps()
 
 def foo():
-    print "foo func"
+    print("foo func")
 
 # print foo.__name__     # foo
 
 
 def bar(func):
     def warp():
-        print "bar func"
+        print("bar func")
         return func()
     return warp
 
 @bar
 def foo2():
-    print "foo func"
+    print("foo func")
 
 # print foo2.__name__    # warp
 
@@ -137,14 +137,14 @@ import functools
 def bar2(func):
     @functools.wraps(func)
     def warp():
-        print "bar func"
+        print("bar func")
         return func()
     return warp
 
 
 @bar2
 def foo3():
-    print "foo func"
+    print("foo func")
 
 # print foo3.__name__    # foo3
 
@@ -156,7 +156,7 @@ def benchmark(func):      # 函数运行时间
     def wrapper(*args, **kwargs):
         t = time.clock()
         res = func(*args, **kwargs)
-        print 'benchmark: '+func.__name__, time.clock()-t
+        print('benchmark: '+func.__name__, time.clock()-t)
         return res
     return wrapper
 
@@ -164,7 +164,7 @@ def benchmark(func):      # 函数运行时间
 def logging(func):       # 日志
     def wrapper(*args, **kwargs):
         res = func(*args, **kwargs)
-        print 'logging: '+func.__name__, args, kwargs
+        print('logging: '+func.__name__, args, kwargs)
         return res
     return wrapper
 
@@ -173,7 +173,7 @@ def counter(func):        # 计数器
     def wrapper(*args, **kwargs):
         wrapper.count = wrapper.count + 1
         res = func(*args, **kwargs)
-        print "counter: {0} has been used: {1}x".format(func.__name__, wrapper.count)
+        print("counter: {0} has been used: {1}x".format(func.__name__, wrapper.count))
         return res
     wrapper.count = 0
     return wrapper
@@ -193,7 +193,7 @@ def reverse_string(string):
 @benchmark
 @logging
 def get_random_futurama_quote():
-    from urllib import urlopen
+    from urllib.request import urlopen
     # result = urlopen("http://www.baidu.com").read()
     result = urlopen("http://www.sina.com.cn/").read()
     try:
@@ -207,7 +207,7 @@ def get_random_futurama_quote():
 @benchmark
 @logging
 def get_random_futurama_quote2(url):
-    from urllib import urlopen
+    from urllib.request import urlopen
     # result = urlopen("http://www.baidu.com").read()
     result = urlopen(url).read()
     try:
@@ -216,4 +216,4 @@ def get_random_futurama_quote2(url):
     except:
         return "No, I'm ... doesn't!"
 
-print get_random_futurama_quote2("http://www.sohu.com/")
+print(get_random_futurama_quote2("http://www.sohu.com/"))
